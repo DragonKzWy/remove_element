@@ -22,3 +22,16 @@ Enter the value to remove:
 3
 The number of elements not equal to 3 is: 2
 The modified array is: [2, 2] and the rest are ignored.
+```
+
+## How to Run
+1. Make sure you have Ruby installed on your system.
+2. Clone this repository to your local machine:
+   - `git clone https://github.com/DragonKzWy/remove_element.git`
+3. Navigate to the project directory:
+   - `cd ruby-array-element-remover`
+4. Run the script:
+   - `ruby remove_element.rb`
+
+## License
+This project is open-source and available under the [MIT License](LICENSE).
